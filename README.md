@@ -10,8 +10,7 @@
 
 [CVPR #18500 - Image Matching: Local Features and Beyond](https://www.youtube.com/watch?v=9JpGjpITiDM)
 
-[Deep Visual SLAM Frontends: SuperPoint, SuperGlue, and SuperMaps (#CVPR2020 Invited Talk)]
-(https://www.youtube.com/watch?v=u7Yo5EtOATQ&t=855s)
+[Deep Visual SLAM Frontends: SuperPoint, SuperGlue, and SuperMaps (#CVPR2020 Invited Talk)](https://www.youtube.com/watch?v=u7Yo5EtOATQ&t=855s)
 
 ### Статьи
 
